@@ -67,7 +67,7 @@
     {
         return YES;
     }
-    else if (fish.center.y >= (sh*.65)) // hits bottom
+    else if (fish.center.y >= (sh*.75-50-60)) // hits bottom
     {
         return YES;
     }
@@ -128,6 +128,10 @@
     [water setImage:[UIImage imageNamed:@"water1.jpeg"]];
     [self.view addSubview:water];
     
+    UIImageView *plant = [[UIImageView alloc] initWithFrame:CGRectMake(sw*.7, sh*.75-50-200, 70, 200)];
+    [plant setImage:[UIImage imageNamed:@"plant1.png"]];
+    [self.view addSubview:plant];
+    
     fish = [[UIImageView alloc] initWithFrame:CGRectMake(sh*.2, 215, 100, 80)];
     [fish setImage:[UIImage imageNamed:@"fish2.png"]];
     [self.view addSubview:fish];
@@ -136,9 +140,13 @@
     [wave setImage:[UIImage imageNamed:@"wave4.jpg"]];
     [self.view addSubview:wave];
     
-    pebbles = [[UIImageView alloc] initWithFrame:CGRectMake(0, sh*.75, sw, sh*.1)];
+    pebbles = [[UIImageView alloc] initWithFrame:CGRectMake(0, sh*.75-50, sw, sh*.1)];
     [pebbles setImage:[UIImage imageNamed:@"pebbles1.jpg"]];
     [self.view addSubview:pebbles];
+    
+    toolbar = [[UIImageView alloc] initWithFrame:CGRectMake(0, sh*.85-50, sw, sh*.15)];
+    [toolbar setImage:[UIImage imageNamed:@"black.png"]];
+    [self.view addSubview:toolbar];
     
     
     // start timer

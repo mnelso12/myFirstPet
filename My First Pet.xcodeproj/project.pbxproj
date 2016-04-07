@@ -10,6 +10,8 @@
 		5A04B4D21CB62B230096936E /* water1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D01CB62B230096936E /* water1.jpeg */; };
 		5A04B4D31CB62B230096936E /* pebbles1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D11CB62B230096936E /* pebbles1.jpg */; };
 		5A04B4D51CB62CBD0096936E /* fish2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D41CB62CBC0096936E /* fish2.png */; };
+		5A04B4D71CB6313C0096936E /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D61CB6313C0096936E /* black.png */; };
+		5A04B4D91CB633B40096936E /* plant1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D81CB633B40096936E /* plant1.png */; };
 		5A670EA11CB4E2E4000620A1 /* wave4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A670EA01CB4E2E4000620A1 /* wave4.jpg */; };
 		5AD70B691CB4360000861D65 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B681CB4360000861D65 /* main.m */; };
 		5AD70B6C1CB4360000861D65 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B6B1CB4360000861D65 /* AppDelegate.m */; };
@@ -38,6 +40,8 @@
 		5A04B4D01CB62B230096936E /* water1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = water1.jpeg; path = ../../water1.jpeg; sourceTree = "<group>"; };
 		5A04B4D11CB62B230096936E /* pebbles1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pebbles1.jpg; path = ../../pebbles1.jpg; sourceTree = "<group>"; };
 		5A04B4D41CB62CBC0096936E /* fish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fish2.png; path = ../../fish2.png; sourceTree = "<group>"; };
+		5A04B4D61CB6313C0096936E /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = black.png; path = ../../trumpPics/black.png; sourceTree = "<group>"; };
+		5A04B4D81CB633B40096936E /* plant1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = plant1.png; path = ../../plant1.png; sourceTree = "<group>"; };
 		5A670EA01CB4E2E4000620A1 /* wave4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wave4.jpg; path = ../../../Downloads/wave4.jpg; sourceTree = "<group>"; };
 		5AD70B631CB4360000861D65 /* My First Pet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My First Pet.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AD70B671CB4360000861D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -101,6 +105,8 @@
 				5AD70B6B1CB4360000861D65 /* AppDelegate.m */,
 				5AD70B6D1CB4360000861D65 /* ViewController.h */,
 				5AD70B6E1CB4360000861D65 /* ViewController.m */,
+				5A04B4D81CB633B40096936E /* plant1.png */,
+				5A04B4D61CB6313C0096936E /* black.png */,
 				5A04B4D41CB62CBC0096936E /* fish2.png */,
 				5A04B4D01CB62B230096936E /* water1.jpeg */,
 				5A04B4D11CB62B230096936E /* pebbles1.jpg */,
@@ -229,6 +235,8 @@
 				5AD70B741CB4360000861D65 /* Images.xcassets in Resources */,
 				5AD70B931CB4479B00861D65 /* wave3.jpeg in Resources */,
 				5A670EA11CB4E2E4000620A1 /* wave4.jpg in Resources */,
+				5A04B4D71CB6313C0096936E /* black.png in Resources */,
+				5A04B4D91CB633B40096936E /* plant1.png in Resources */,
 				5AD70B8D1CB436D500861D65 /* fish1.jpg in Resources */,
 				5AD70B8F1CB441F300861D65 /* wave1.png in Resources */,
 				5A04B4D21CB62B230096936E /* water1.jpeg in Resources */,
