@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A04B4D21CB62B230096936E /* water1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D01CB62B230096936E /* water1.jpeg */; };
+		5A04B4D31CB62B230096936E /* pebbles1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D11CB62B230096936E /* pebbles1.jpg */; };
+		5A04B4D51CB62CBD0096936E /* fish2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A04B4D41CB62CBC0096936E /* fish2.png */; };
+		5A670EA11CB4E2E4000620A1 /* wave4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A670EA01CB4E2E4000620A1 /* wave4.jpg */; };
 		5AD70B691CB4360000861D65 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B681CB4360000861D65 /* main.m */; };
 		5AD70B6C1CB4360000861D65 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B6B1CB4360000861D65 /* AppDelegate.m */; };
 		5AD70B6F1CB4360000861D65 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B6E1CB4360000861D65 /* ViewController.m */; };
@@ -14,6 +18,10 @@
 		5AD70B741CB4360000861D65 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B731CB4360000861D65 /* Images.xcassets */; };
 		5AD70B771CB4360000861D65 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B751CB4360000861D65 /* LaunchScreen.xib */; };
 		5AD70B831CB4360100861D65 /* My_First_PetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD70B821CB4360100861D65 /* My_First_PetTests.m */; };
+		5AD70B8D1CB436D500861D65 /* fish1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B8C1CB436D500861D65 /* fish1.jpg */; };
+		5AD70B8F1CB441F300861D65 /* wave1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B8E1CB441F300861D65 /* wave1.png */; };
+		5AD70B911CB4472600861D65 /* wave2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B901CB4472600861D65 /* wave2.png */; };
+		5AD70B931CB4479B00861D65 /* wave3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5AD70B921CB4479B00861D65 /* wave3.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5A04B4D01CB62B230096936E /* water1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = water1.jpeg; path = ../../water1.jpeg; sourceTree = "<group>"; };
+		5A04B4D11CB62B230096936E /* pebbles1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pebbles1.jpg; path = ../../pebbles1.jpg; sourceTree = "<group>"; };
+		5A04B4D41CB62CBC0096936E /* fish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fish2.png; path = ../../fish2.png; sourceTree = "<group>"; };
+		5A670EA01CB4E2E4000620A1 /* wave4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wave4.jpg; path = ../../../Downloads/wave4.jpg; sourceTree = "<group>"; };
 		5AD70B631CB4360000861D65 /* My First Pet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My First Pet.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AD70B671CB4360000861D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AD70B681CB4360000861D65 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +52,10 @@
 		5AD70B7C1CB4360100861D65 /* My First PetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My First PetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AD70B811CB4360100861D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AD70B821CB4360100861D65 /* My_First_PetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = My_First_PetTests.m; sourceTree = "<group>"; };
+		5AD70B8C1CB436D500861D65 /* fish1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fish1.jpg; path = ../../fish1.jpg; sourceTree = "<group>"; };
+		5AD70B8E1CB441F300861D65 /* wave1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wave1.png; path = ../../../Downloads/wave1.png; sourceTree = "<group>"; };
+		5AD70B901CB4472600861D65 /* wave2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wave2.png; path = ../../wave2.png; sourceTree = "<group>"; };
+		5AD70B921CB4479B00861D65 /* wave3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wave3.jpeg; path = ../../wave3.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +101,14 @@
 				5AD70B6B1CB4360000861D65 /* AppDelegate.m */,
 				5AD70B6D1CB4360000861D65 /* ViewController.h */,
 				5AD70B6E1CB4360000861D65 /* ViewController.m */,
+				5A04B4D41CB62CBC0096936E /* fish2.png */,
+				5A04B4D01CB62B230096936E /* water1.jpeg */,
+				5A04B4D11CB62B230096936E /* pebbles1.jpg */,
+				5A670EA01CB4E2E4000620A1 /* wave4.jpg */,
+				5AD70B921CB4479B00861D65 /* wave3.jpeg */,
+				5AD70B901CB4472600861D65 /* wave2.png */,
+				5AD70B8E1CB441F300861D65 /* wave1.png */,
+				5AD70B8C1CB436D500861D65 /* fish1.jpg */,
 				5AD70B701CB4360000861D65 /* Main.storyboard */,
 				5AD70B731CB4360000861D65 /* Images.xcassets */,
 				5AD70B751CB4360000861D65 /* LaunchScreen.xib */,
@@ -168,6 +192,7 @@
 				TargetAttributes = {
 					5AD70B621CB4360000861D65 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 34TZ54QCUD;
 					};
 					5AD70B7B1CB4360100861D65 = {
 						CreatedOnToolsVersion = 6.4;
@@ -202,6 +227,14 @@
 				5AD70B721CB4360000861D65 /* Main.storyboard in Resources */,
 				5AD70B771CB4360000861D65 /* LaunchScreen.xib in Resources */,
 				5AD70B741CB4360000861D65 /* Images.xcassets in Resources */,
+				5AD70B931CB4479B00861D65 /* wave3.jpeg in Resources */,
+				5A670EA11CB4E2E4000620A1 /* wave4.jpg in Resources */,
+				5AD70B8D1CB436D500861D65 /* fish1.jpg in Resources */,
+				5AD70B8F1CB441F300861D65 /* wave1.png in Resources */,
+				5A04B4D21CB62B230096936E /* water1.jpeg in Resources */,
+				5AD70B911CB4472600861D65 /* wave2.png in Resources */,
+				5A04B4D31CB62B230096936E /* pebbles1.jpg in Resources */,
+				5A04B4D51CB62CBD0096936E /* fish2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -349,6 +382,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "My First Pet/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -359,6 +393,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "My First Pet/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -418,6 +453,7 @@
 				5AD70B881CB4360100861D65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5AD70B891CB4360100861D65 /* Build configuration list for PBXNativeTarget "My First PetTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +462,7 @@
 				5AD70B8B1CB4360100861D65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
